@@ -1,0 +1,46 @@
+Do you want to enable colour mode for the game?[y or n]
+>
+Welcome to Qwirkle!
+-------------------
+
+menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+
+>
+Enter the file name from which to load a game
+> TestCase
+
+Qwirkle game successfully loaded
+
+A, it's your turn
+Score for A: 0
+Score for B: 0
+
+     0
+   ------
+A  |    |
+   ------
+
+
+Your hand is
+P2,O5,B3,Y1,Y6,Y5
+
+>
+Sorry you do not have the tile to place
+
+A, it's your turn
+Score for A: 0
+Score for B: 0
+
+     0
+   ------
+A  |    |
+   ------
+
+
+Your hand is
+P2,O5,B3,Y1,Y6,Y5

@@ -1,0 +1,35 @@
+Do you want to enable colour mode for the game?[y or n]
+> n
+
+Welcome to Qwirkle!
+-------------------
+
+menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+
+> 2
+
+Enter the file name from which to load a game
+> SAVEDGAMEALEJANDRO
+
+Qwirkle game successfully loaded
+
+A, it's your turn
+Score for A: 1
+Score for B: 0
+
+     0
+   ---------
+A  | P3 |
+B     |    |
+   ---------
+        1
+
+Your hand is
+O3,B4,P4,P2,O2,R5
+
+>

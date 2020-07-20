@@ -1,0 +1,18 @@
+Do you want to enable colour mode for the game?[y or n]
+> n
+
+Welcome to Qwirkle!
+-------------------
+
+menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+
+> 2
+
+Enter the file name from which to load a game
+> loadthatdoesntexist
+File could not be loaded

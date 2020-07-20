@@ -1,0 +1,84 @@
+Do you want to enable colour mode for the game?[y or n]
+> n
+
+Welcome to Qwirkle!
+-------------------
+
+menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+
+> 1
+
+Starting a New Game
+
+PlayerMode
+----------
+1. Singleplayer
+2. Multiplayer
+
+> 1
+
+Enter number of AI you want to play (0 - 3)
+> 1
+
+Enter a name for your player (uppercase characters only)
+> A
+
+Enter a name for your AI 2 (uppercase characters only)
+> B
+
+Let's Play!
+
+A, it's your turn
+Score for A: 0
+Score for B: 0
+
+     0
+   ------
+A  |    |
+   ------
+
+
+Your hand is
+P3,O3,B4,P4,P2,O2
+
+> place P3 at A0
+
+B replaced a tile
+
+A, it's your turn
+Score for A: 1
+Score for B: 0
+
+     0
+   ---------
+A  | P3 |
+B     |    |
+   ---------
+        1
+
+Your hand is
+O3,B4,P4,P2,O2,R5
+
+> save SAVEDGAMEALEJANDRO
+Game successfully saved
+
+A, it's your turn
+Score for A: 1
+Score for B: 0
+
+     0
+   ---------
+A  | P3 |
+B     |    |
+   ---------
+        1
+
+Your hand is
+O3,B4,P4,P2,O2,R5
+
+>

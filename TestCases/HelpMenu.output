@@ -1,0 +1,90 @@
+Do you want to enable colour mode for the game?[y or n]
+> n
+
+Welcome to Qwirkle!
+-------------------
+
+menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+
+> 1
+
+Starting a New Game
+
+PlayerMode
+----------
+1. Singleplayer
+2. Multiplayer
+
+> 2
+
+Enter number of players you want to play (2 - 4)
+> 2
+
+Enter a name for player 1 (uppercase characters only)
+> A
+
+Enter a name for player 2 (uppercase characters only)
+> B
+
+Let's Play!
+
+A, it's your turn
+Score for A: 0
+Score for B: 0
+
+     0
+   ------
+A  |    |
+   ------
+
+
+Your hand is
+G4,P4,P3,P2,G5,Y3
+
+> help
+----------------------
+Hello, need some help?
+----------------------
+
+---------------
+Placing a tile:
+---------------
+
+Each line can only contain one of each color and one of each shape.
+The tile being placed must connect to another tile on the board
+
+To place a tile, type: 'place <Tile> at <Coordinates>'
+For example: 'place G5 at A2'
+
+To replace a tile, type: 'replace <Tile>'
+For example: 'replace G5'
+You will then get a new tile in its place.
+This will skip your turn.
+
+-------------------
+Saving and Quitting
+-------------------
+
+You can type 'save <savename>' to save your current game progress.
+
+You can type 'quit' to exit the game, make sure you save first if you want to keep your progress.
+-------------------------------------------------------------------------------------------------
+
+
+A, it's your turn
+Score for A: 0
+Score for B: 0
+
+     0
+   ------
+A  |    |
+   ------
+
+
+Your hand is
+G4,P4,P3,P2,G5,Y3

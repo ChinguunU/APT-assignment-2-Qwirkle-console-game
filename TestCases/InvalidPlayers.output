@@ -1,0 +1,27 @@
+Do you want to enable colour mode for the game?[y or n]
+> n
+
+Welcome to Qwirkle!
+-------------------
+
+menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+
+> 1
+
+Starting a New Game
+
+PlayerMode
+----------
+1. Singleplayer
+2. Multiplayer
+
+> 2
+
+Enter number of players you want to play (2 - 4)
+> 8
+Invalid option please enter a valid option
